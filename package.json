@@ -1,5 +1,5 @@
 {
-  "name": "soa-vs-microservices",
+  "name": "soa-microservices-monolith",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
